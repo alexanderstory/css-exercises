@@ -1,0 +1,19 @@
+.redpinkbg {
+    background-color: rgb(250, 129, 224);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#bluetext {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#fontsize24 {
+    font-size: 24px;
+}
+
+#lightgreenbg {
+    background-color: rgb(100, 248, 150);
+    font-size: 24px;
+    font-weight: bold;
+}
